@@ -1,3 +1,2 @@
-*.tcl linguist-detectable=false
-*.roff linguist-detectable=false
+*.dll linguist-detectable=false
 *.cpp linguist-detectable=false
