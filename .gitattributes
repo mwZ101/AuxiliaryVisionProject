@@ -1,2 +1,2 @@
-*.dll linguist-detectable=false
+*.3 linguist-detectable=false
 *.cpp linguist-detectable=false
